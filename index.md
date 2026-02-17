@@ -40,7 +40,7 @@
 24. [Team Building & Roster Construction Philosophy](#24-team-building--roster-construction-philosophy)
 25. [Player Health, Load Management & Eligibility](#25-player-health-load-management--eligibility)
 
-### Part 7: The Modern Game & Resources
+### Part 7: The Modern Game
 26. [The Modern Evolution of Basketball](#26-the-modern-evolution-of-basketball)
 
 ---
