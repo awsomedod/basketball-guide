@@ -488,20 +488,21 @@
 ## 6. NBA vs NCAA Differences
 
 ### 6.1 Rules Differences
+
 | Rule | NBA | NCAA |
-|------|-----|------|
-| Game length | 4 × 12-minute quarters | 2 × 20-minute halves |
-| Shot clock | 24 seconds | 30 seconds |
-| Three-point line | 23'9" (22' corners) | 22'1.75" |
-| Lane width | 16 feet | 12 feet |
-| Defensive 3-seconds | Yes | No |
-| Fouls to foul out | 6 | 5 |
-| Backcourt violation | 8 seconds | 10 seconds |
-| Shot clock reset (offensive rebound) | 14 seconds | 20 seconds |
-| Closely guarded rule | No | Yes (5 seconds) |
-| Coach's challenge | Yes (max 2 successful per game; costs a timeout) | No (but replay used for certain situations) |
-| Timeouts | 7 per game | Varies (team + media) |
-| Quarters vs. halves | Quarters (bonus resets each quarter) | Halves (bonus accumulates all half) |
+|:-----|:----|:-----|
+| **Game length** | 4 × 12-minute quarters | 2 × 20-minute halves |
+| **Shot clock** | 24 seconds | 30 seconds |
+| **Three-point line** | 23'9" (22' corners) | 22'1.75" |
+| **Lane width** | 16 feet | 12 feet |
+| **Defensive 3-seconds** | Yes | No |
+| **Fouls to foul out** | 6 | 5 |
+| **Backcourt violation** | 8 seconds | 10 seconds |
+| **Shot clock reset (offensive rebound)** | 14 seconds | 20 seconds |
+| **Closely guarded rule** | No | Yes (5 seconds) |
+| **Coach's challenge** | Yes (max 2 successful per game; costs a timeout) | No (but replay used for certain situations) |
+| **Timeouts** | 7 per game | Varies (team + media) |
+| **Quarters vs. halves** | Quarters (bonus resets each quarter) | Halves (bonus accumulates all half) |
 
 ### 6.2 Style of Play Differences
 - **NCAA is more structured:** Coaches have more control; plays are more scripted; players are less skilled and rely more on systems
