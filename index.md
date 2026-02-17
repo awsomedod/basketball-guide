@@ -919,19 +919,81 @@
 - Variations:
   - **Straight-up man:** Guarding your player tightly without help
   - **Switching man-to-man:** When two defenders switch assignments, often after a screen, "switching everything" has become extremely popular
+
+<p align="center">
+  <img src="./assets/gifs/switching_man_to_man.gif" alt="Switching man-to-man" width="480">
+  <br><em>Switching man-to-man defense</em>
+</p>
+
   - **Hedge and recover:** After a screen, the screener's defender temporarily steps out to slow the ball handler, then recovers back to their original assignment
+    - **Hedge:** The screener's defender steps out toward the ball handler to disrupt the pick-and-roll. The defender "hedges" (temporarily helps) to slow down the ball handler, giving the on-ball defender time to recover
+    - **Hard hedge:** An aggressive hedge where the screener's defender steps out far and aggressively contests the ball handler, often forcing them to retreat or change direction. More disruptive but takes longer to recover
+    - **Soft hedge:** A less aggressive hedge where the screener's defender takes a smaller step out, showing presence but not fully committing. Allows for quicker recovery but is less disruptive
+
+<p align="center">
+  <img src="./assets/gifs/hedge_and_recover.gif" alt="Hedge and recover" width="480">
+  <br><em>Hedge and recover defense</em>
+</p>
+
   - **Drop coverage:** The big man defending the screener drops back toward the basket instead of coming up to the ball handler. Protects the rim but gives up mid-range shots
+
+<p align="center">
+  <img src="./assets/gifs/drop_coverage.gif" alt="Drop coverage" width="480">
+  <br><em>Drop coverage defense</em>
+</p>
+
   - **ICE / blue / push:** Forcing the ball handler away from the screen toward the sideline/baseline
+
+<p align="center">
+  <img src="./assets/gifs/ice_blue_push.gif" alt="ICE / blue / push" width="480">
+  <br><em>ICE / blue / push defense</em>
+</p>
+
   - **Blitz / trap:** Both defenders (on-ball and screener's defender) aggressively double-team the ball handler after a screen
+
+<p align="center">
+  <img src="./assets/gifs/blitz_trap.gif" alt="Blitz / trap" width="480">
+  <br><em>Blitz / trap defense</em>
+</p>
+
   - **Over the screen:** The ball handler's defender fights over the top of the screen (between the screener and the ball)
+
+<p align="center">
+  <img src="./assets/gifs/over_the_screen.gif" alt="Over the screen" width="480">
+  <br><em>Over the screen defense</em>
+</p>
 
 #### Zone Defense
 - Defenders guard areas of the court rather than specific players
 - Types of zone:
   - **2-3 zone:** Two players up top, three along the baseline
+
+<p align="center">
+  <img src="./assets/images/2-3.jpg" alt="2-3 zone" width="480">
+  <br><em>2-3 zone defense</em>
+</p>
+
   - **3-2 zone:** Three players up top, two along the baseline
+
+<p align="center">
+  <img src="./assets/images/3-2.jpg" alt="3-2 zone" width="480">
+  <br><em>3-2 zone defense</em>
+</p>
+
   - **1-3-1 zone:** One player up top, three across the free-throw line extended, one near the basket
+
+<p align="center">
+  <img src="./assets/images/1-3-1.jpg" alt="1-3-1 zone" width="480">
+  <br><em>1-3-1 zone defense</em>
+</p>
+
   - **2-1-2 zone:** Two up top, one in the middle, two on the blocks
+
+<p align="center">
+  <img src="./assets/images/2-1-2.jpg" alt="2-1-2 zone" width="480">
+  <br><em>2-1-2 zone defense</em>
+</p>
+
   - **Box-and-one:** Four players play zone, one player plays man-to-man on the opponent's best scorer
   - **Triangle-and-two:** Three players play zone (in a triangle), two play man-to-man on the two best scorers
   - **Matchup zone:** Looks like man-to-man but defenders pass off assignments based on zones
@@ -942,12 +1004,28 @@
 - **Full-court press:** Defending the entire court rather than just the half court
   - Applied to disrupt the opponent's ball advancement, create turnovers, and increase pace
   - Types: man-to-man press, 1-2-1-1 press, 2-2-1 press, diamond press
+
+<p align="center">
+  <img src="./assets/gifs/full_court_press.gif" alt="Full-court press" width="480">
+  <br><em>Full-court press defense</em>
+</p>
+
 - **Half-court trap:** Trapping the ball handler after they cross half court
+
+<p align="center">
+  <img src="./assets/gifs/half_court_trap.gif" alt="Half-court trap" width="480">
+  <br><em>Half-court trap defense</em>
+</p>
+
 - **Deny defense:** Aggressively preventing a specific player from receiving the ball
+
+<p align="center">
+  <img src="./assets/gifs/deny_defense.gif" alt="Deny defense" width="480">
+  <br><em>Deny defense</em>
+</p>
 
 ### 9.2 On-Ball vs. Off-Ball Defense
 - **On-ball defender:** The player guarding the ball handler
-  - Stance: low, wide base, active hands
   - Goal: contain the ball handler, contest shots, force turnovers, prevent easy drives
   - Pressure: how aggressively the on-ball defender plays (full pressure vs. sagging back)
 - **Off-ball defenders:** The four players NOT guarding the ball handler
