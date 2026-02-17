@@ -489,20 +489,77 @@
 
 ### 6.1 Rules Differences
 
-| Rule | NBA | NCAA |
-|:-----|:----|:-----|
-| **Game length** | 4 × 12-minute quarters | 2 × 20-minute halves |
-| **Shot clock** | 24 seconds | 30 seconds |
-| **Three-point line** | 23'9" (22' corners) | 22'1.75" |
-| **Lane width** | 16 feet | 12 feet |
-| **Defensive 3-seconds** | Yes | No |
-| **Fouls to foul out** | 6 | 5 |
-| **Backcourt violation** | 8 seconds | 10 seconds |
-| **Shot clock reset (offensive rebound)** | 14 seconds | 20 seconds |
-| **Closely guarded rule** | No | Yes (5 seconds) |
-| **Coach's challenge** | Yes (max 2 successful per game; costs a timeout) | No (but replay used for certain situations) |
-| **Timeouts** | 7 per game | Varies (team + media) |
-| **Quarters vs. halves** | Quarters (bonus resets each quarter) | Halves (bonus accumulates all half) |
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">Rule</th>
+<th style="text-align: center;">NBA</th>
+<th style="text-align: center;">NCAA</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>Game length</strong></td>
+<td style="text-align: center;">4 × 12-minute quarters</td>
+<td style="text-align: center;">2 × 20-minute halves</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Shot clock</strong></td>
+<td style="text-align: center;">24 seconds</td>
+<td style="text-align: center;">30 seconds</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Three-point line</strong></td>
+<td style="text-align: center;">23'9" (22' corners)</td>
+<td style="text-align: center;">22'1.75"</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Lane width</strong></td>
+<td style="text-align: center;">16 feet</td>
+<td style="text-align: center;">12 feet</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Defensive 3-seconds</strong></td>
+<td style="text-align: center;">Yes</td>
+<td style="text-align: center;">No</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Fouls to foul out</strong></td>
+<td style="text-align: center;">6</td>
+<td style="text-align: center;">5</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Backcourt violation</strong></td>
+<td style="text-align: center;">8 seconds</td>
+<td style="text-align: center;">10 seconds</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Shot clock reset (offensive rebound)</strong></td>
+<td style="text-align: center;">14 seconds</td>
+<td style="text-align: center;">20 seconds</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Closely guarded rule</strong></td>
+<td style="text-align: center;">No</td>
+<td style="text-align: center;">Yes (5 seconds)</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Coach's challenge</strong></td>
+<td style="text-align: center;">Yes (max 2 successful per game; costs a timeout)</td>
+<td style="text-align: center;">No (but replay used for certain situations)</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Timeouts</strong></td>
+<td style="text-align: center;">7 per game</td>
+<td style="text-align: center;">Varies (team + media)</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Quarters vs. halves</strong></td>
+<td style="text-align: center;">Quarters (bonus resets each quarter)</td>
+<td style="text-align: center;">Halves (bonus accumulates all half)</td>
+</tr>
+</tbody>
+</table>
 
 ### 6.2 Style of Play Differences
 - **NCAA is more structured:** Coaches have more control; plays are more scripted; players are less skilled and rely more on systems
