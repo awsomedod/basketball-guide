@@ -42,9 +42,6 @@
 
 ### Part 7: The Modern Game & Resources
 26. [The Modern Evolution of Basketball](#26-the-modern-evolution-of-basketball)
-27. [Recommended Viewing & Resources](#27-recommended-viewing--resources)
-
-[Glossary of Key Terms](#glossary-of-key-terms)
 
 ---
 
@@ -1604,12 +1601,6 @@
 - **Win probability:** A model that estimates the chance of winning at any given point in a game based on score, time remaining, possession, etc.
 - **Expected value:** The average outcome of a decision. For example, should you foul when up 3 with 10 seconds left? Analytics models calculate the win probability of fouling vs. not fouling.
 - These models inform in-game strategy and are a key product for analytics tools
-
-### 20.7 Game Theory in Basketball
-- **Decision trees:** Every play involves decisions (shoot, pass, drive) with probabilistic outcomes
-- **Nash equilibrium:** The optimal balance between different shot types, defensive coverages, and play calls. If you always do the same thing, the defense adjusts
-- **Mixing strategies:** The best offenses mix pick-and-roll, isolation, motion, and transition to prevent the defense from keying on any one thing
-- **Information asymmetry:** The offense knows the play call; the defense has to react. But scouting narrows this gap.
 
 ### 20.8 Basketball IQ & Feel for the Game
 - **Definition:** A player's ability to read situations, anticipate what's about to happen, and make the correct decision in real time
